@@ -4,5 +4,6 @@ Dependences:
     requests pyfiglet
     
 install:
+
     pip install requests
     pip install pyfiglet
