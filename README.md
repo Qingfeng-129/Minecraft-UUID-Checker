@@ -1,4 +1,4 @@
-输入玩家ID获取对应UUID
+Enter the player ID to obtain the corresponding UUID
 
 Dependences:
     requests pyfiglet
